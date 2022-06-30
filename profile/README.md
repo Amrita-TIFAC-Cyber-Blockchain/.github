@@ -4,8 +4,9 @@
 
 ## Projects 
 
-### Funded Projects
-TBD
+### Collaborative Projects
+- <img src="https://img.shields.io/badge/-Koyo-blue"/> <a href=""> KesarNET</a>
+- <img src="https://img.shields.io/badge/-Koyo-blue"/> <a href=""> Tailing Dam</a>
 
 ### Individual Projects
 
@@ -48,8 +49,8 @@ TBD
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) 19CSE464 - Fundamentals of Software Engineering
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS112 - Computer Organisation and Architecture
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS181 - Computer Programming Lab
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) 21CY712 - Blockchain Technology
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) 19CSE447 - Cloud Computing 
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) 21CY712 - Blockchain Technology
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) 20CYS202 - User Interface Design 
 
 ## Materials and Resources 
