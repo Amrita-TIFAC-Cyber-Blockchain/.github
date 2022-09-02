@@ -14,6 +14,12 @@
 
 ### Guided Projects
 
+- **Mr. Mohamed Feroz Khan D**
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> Blockchain Forensics
+- **Mr. Khandagale Swapneel Raosaheb**
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> MeRiT: Media Rights Tracking
+- **Ms. Pothuri Lakshmi Harika**
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> Smart Contract Security
 - **Mr. Kowshik Hurshan**
     - <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href=""> MeSH: Merkle based Similarity Hashing</a>
 - **Mr. Danda Prudhvi Krishna** 
@@ -44,14 +50,15 @@
 
 - ![](https://img.shields.io/badge/-Research_Associate-blue) 18CY712 - Blockchain Technology
 - ![](https://img.shields.io/badge/-Research_Associate-blue) 20CY712 - Blockchain Technology
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) 
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE100-Problem-Solving-and-Algorithmic-Thinking/"> 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) </a>
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS103 - Computer Hardware and System Essentials
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) 19CSE464 - Fundamentals of Software Engineering
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE464-Fundamentals-of-Software-Engineering/"> 19CSE464 - Fundamentals of Software Engineering </a>
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS112 - Computer Organisation and Architecture
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS181 - Computer Programming Lab
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) 19CSE447 - Cloud Computing 
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) 21CY712 - Blockchain Technology
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) 20CYS202 - User Interface Design 
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS181 - Computer Programming
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE447-Cloud-Computing/"> 19CSE447 - Cloud Computing </a> 
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/21CY712-Blockchain-Technology/"> 21CY712 - Blockchain Technology</a>
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS202-User-Interface-Design/">20CYS202 - User Interface Design</a> 
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS281 - Operating System Lab
 
 ## Materials and Resources 
 - ![](https://img.shields.io/badge/-PhD-blue) [21CS637 : Advanced Networks](https://amrita-tifac-cyber-blockchain.github.io/21CS637-Advanced-Networks/)
