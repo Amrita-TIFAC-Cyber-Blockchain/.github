@@ -59,6 +59,7 @@
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/21CY712-Blockchain-Technology/"> 21CY712 - Blockchain Technology</a>
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS202-User-Interface-Design/">20CYS202 - User Interface Design</a> 
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS281 - Operating System Lab
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE100-Problem-Solving-and-Algorithmic-Thinking/22CYS"> 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) </a>
 
 ### 2021 - 2022 Even Semester
 
@@ -70,7 +71,7 @@
 ### 2021 - 2022 Odd Semester
 
 - ![](https://img.shields.io/badge/-Research_Associate_and_Asst_Prof-blue) 20CY712 - Blockchain Technology
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE100-Problem-Solving-and-Algorithmic-Thinking/"> 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) </a>
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE100-Problem-Solving-and-Algorithmic-Thinking/21CYS"> 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) </a>
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS103 - Computer Hardware and System Essentials
 
 ### 2020 - 2021 Odd Semester
