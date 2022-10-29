@@ -10,7 +10,8 @@
 
 ### Individual Projects
 
-![](https://img.shields.io/badge/-MTech_Dissertation-blue) <a href=""> Blockchain for the Internet of Vehicles</a>
+ - ![](https://img.shields.io/badge/-MTech_Dissertation-blue) <a href=""> Blockchain for the Internet of Vehicles</a> 
+ - ![](https://img.shields.io/badge/-Ph.D-blue) <a href=""> Formal Methods for Blockchain Technology</a>
 
 ### Guided Projects
 
