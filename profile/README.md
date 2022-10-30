@@ -38,8 +38,6 @@
 
 ### 2021 - 2022 Odd Semester    
 
-- **Mr. P. Gnanendra Prasad**
-    - <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href=""> Security Analysis of Decentralized Exchanges</a> <br/>
 - **Ms. Gandavaram Anuhya**
     - <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/"> GEIN: Distributed Geographical Indication Registry</a> <br/>
 
