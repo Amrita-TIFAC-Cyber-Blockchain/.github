@@ -15,14 +15,14 @@
 
 ### Guided Projects
 
-### 2022 - 2023 Odd Semester
+### 2022 - 2023 Odd & Even Semester
 
 - **Mr. Mohamed Feroz Khan D**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> Blockchain Forensics
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [Blockchain Forensics]
 - **Mr. Khandagale Swapneel Raosaheb**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> MeRiT: Media Rights Tracking
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [MeRiT: Media Rights Tracking]
 - **Ms. Pothuri Lakshmi Harika**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> Smart Contract Security
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [Smart Contract Security]
 
 ### 2021 - 2022 Even Semester  
 
@@ -83,6 +83,8 @@
 
 ## Hackathon 
 - ![](https://img.shields.io/badge/-PhD-blue) [MeRiT: Media Rights Tracking Platform to Tackle Online Piracy](https://amrita-tifac-cyber-blockchain.github.io/MeRiT/)
+
+- [Om: OSINT me](https://amrita-tifac-cyber-blockchain.github.io/Om/)
 
 ## Initiatives
 
