@@ -18,7 +18,7 @@
 ### 2022 - 2023 Odd & Even Semester
 
 - **Mr. Mohamed Feroz Khan D**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [Blockchain Forensics]
+    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-Forensics-using-OSINT-and-Graph-Temporal-Logic/"> Blockchain Forensics </a>
 - **Mr. Khandagale Swapneel Raosaheb**
     - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [MeRiT: Media Rights Tracking]
 - **Ms. Pothuri Lakshmi Harika**
