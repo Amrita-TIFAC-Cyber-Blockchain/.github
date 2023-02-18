@@ -57,9 +57,10 @@
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS383-Java-Programming-Lab/"> 20CYS383 - Java Programming Lab</a> 
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS113-20CYS181-Computer-Programming-and-Lab /"> 20CYS113 - Computer Programming</a>
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS113-20CYS181-Computer-Programming-and-Lab /"> 20CYS181 - Computer Programming Lab</a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS282	- System Security Lab
 - ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS215	- Machine Learning in Cyber Security
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS114	- Cyber Security Essentials
+- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS282	- System Security Lab
+
+
 
 ### 2022 - 2023 Odd Semester
 
