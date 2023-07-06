@@ -1,105 +1,87 @@
 # Ramaguru Radhakrishnan's Works and Collaboration 
 
-[Ramaguru's](https://ramagururadhakrishnan.github.io/) work in Amrita School of Computing and Amrita School of Engineering, Coimbatore as M.Tech Cyber Security Student, Research Associate, Ph.D Research Scholar & Assistant Professor.
+[Ramaguru's](https://ramagururadhakrishnan.github.io/) work in Amrita School of Computing and Amrita School of Engineering, Coimbatore, as M.Tech Cyber Security Student, Research Associate, Ph.D Research Scholar & Assistant Professor.
 
-## Projects 
+## Academic - Teaching Responsibility
 
-### Collaborative Projects
-- <img src="https://img.shields.io/badge/-Koyo-blue"/> <a href=""> KesarNET</a>
-- <img src="https://img.shields.io/badge/-Koyo-blue"/> <a href=""> Tailing Dam</a>
+#### Class Advisor of B.Tech CSE (Cyber Security): [2022 - 2026 Batch](https://github.com/re-bin-d-22ucys)
 
-### Individual Projects
+#### Subject Taught
 
- - ![](https://img.shields.io/badge/-MTech_Dissertation-blue) <a href=""> Blockchain for the Internet of Vehicles</a> 
- - ![](https://img.shields.io/badge/-Ph.D-blue) <a href=""> Formal Methods for Blockchain Technology</a>
+##### Present
 
-### Guided Projects
+| Year | Batch and Semester | Subject Code | Subject Name | 
+|:-----|:------------------:|:------------:|:------------:|
+| 2022-23 Even | 22UCYS - II Sem | 20CYS113 | [Computer Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
+| 2022-23 Even | 22UCYS - II Sem | 20CYS181 | [Computer Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
+| 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
 
-### 2022 - 2023 Odd & Even Semester
+##### Completed
 
-- **Mr. Mohamed Feroz Khan D**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Blockchain-Forensics-using-OSINT-and-Graph-Temporal-Logic/"> Blockchain Forensics </a>
-- **Mr. Khandagale Swapneel Raosaheb**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [MeRiT: Media Rights Tracking]()
-- **Ms. Pothuri Lakshmi Harika**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-21CYS_MTech-purple"/> [Smart Contract Security]()
+| Year | Batch and Semester | Subject Code | Subject Name | 
+|:-----|:------------------:|:------------:|:------------:|
+| 2022-23 Odd | 21UCYS - III Sem | 20CYS202 | [User Interface Design](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User-Interface-Design) |
+| 2022-23 Odd | 21CYS - III Sem | 21CY712 | Blockchain Technology |
+| 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE447-Cloud-Computing) |
+| 2021-22 Even | 19ECE/CCE - VI Sem | 19CSE464 | [Fundamentals of Software Engineering](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE464-Fundamentals-of-Software-Engineering) |
+| 2021-22 Odd | 20CYS - III Sem | 21CY712 | Blockchain Technology |
 
-### 2021 - 2022 Even Semester  
+## Research Responsibility
 
-- **Mr. Kowshik Hurshan**
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href=""> MeSH: Merkle based Similarity Hashing</a>
-    
-### 2021 - 2022 Odd & Even Semester    
+#### Project Guidance
 
-- **Mr. Danda Prudhvi Krishna** 
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href=""> DAuth: Distributed OAuth using Decentralized Identifiers with Secret Sharing</a> <br/>
-- **Mr. Pradeep Kumar G** 
-    - <img src="https://img.shields.io/badge/MTech_Dissertation-20CYS_MTech-blue"/> <a href=""> Vehicle Forensics</a> <br/>
+| Batch - Year |  Name | Dissertation Title | 
+|:------------:|:------------:|:------------|
+| 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
+| 2022-23 <br/> 21CYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
+| 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gap in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Smart-Contract-Security) |
+| 2021-22 <br/> 20CYS | Danda Prudhvi Krishna | [SSH-DAuth: Secret Sharing based Decentralized OAuth using Decentralized Identifier](https://github.com/Amrita-TIFAC-Cyber-Blockchain/DAuth-Distributed-OAuth-using-Decentralized-Identifiers-with-Secret-Sharing) |
 
-### 2021 - 2022 Odd Semester    
+## Administrative Responsibility
 
-- **Ms. Gandavaram Anuhya**
-    - <img src="https://img.shields.io/badge/Blockchain_Course-20CYS_MTech-blue"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/GEIN-Distributed-Geographical-Indication-Registry/"> GEIN: Distributed Geographical Indication Registry</a> <br/>
-
-### 2020 - 2021 Odd Semester
-
-- **Mr. Sivadanam Yaswanth Lingam**
-    - <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Ledger-Framework-for-an-Adaptive-University-Management-System/"> Distributed Ledger Framework for an Adaptive University Management System</a> <br/>
-- **Mr. Aju Mathew Thomas** 
-    - <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/"> Distributed Identity and Verifiable Claims Using Ethereum Standards</a> <br/>
-- **Ms. Samia Anjum** 
-    - <img src="https://img.shields.io/badge/Blockchain_Course-19CYS_MTech-purple"/> <a href="https://amrita-tifac-cyber-blockchain.github.io/Patient-Medical-Records"> Medical Record Management based on Distributed Ledger and Storage</a> <br/>
-
-## Teachings
-
-### 2022 - 2023 Even Semester
-
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS383-Java-Programming-Lab/"> 20CYS383 - Java Programming Lab</a> 
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS113-20CYS181-Computer-Programming-and-Lab /"> 20CYS113 - Computer Programming</a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS113-20CYS181-Computer-Programming-and-Lab /"> 20CYS181 - Computer Programming Lab</a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS215	- Machine Learning in Cyber Security
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS282	- System Security Lab
-
-
-
-### 2022 - 2023 Odd Semester
-
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE447-Cloud-Computing/"> 19CSE447 - Cloud Computing </a> 
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/21CY712-Blockchain-Technology/"> 21CY712 - Blockchain Technology</a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/20CYS202-User-Interface-Design/">20CYS202 - User Interface Design</a> 
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS281-Operating-System-Lab"> 20CYS281 - Operating System Lab </a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE100-Problem-Solving-and-Algorithmic-Thinking/22CYS"> 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) </a>
-
-### 2021 - 2022 Even Semester
-
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE464-Fundamentals-of-Software-Engineering/"> 19CSE464 - Fundamentals of Software Engineering </a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS112 - Computer Organisation and Architecture
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS181 - Computer Programming
-
-
-### 2021 - 2022 Odd Semester
-
-- ![](https://img.shields.io/badge/-Research_Associate_and_Asst_Prof-blue) 20CY712 - Blockchain Technology
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) <a href="https://amrita-tifac-cyber-blockchain.github.io/19CSE100-Problem-Solving-and-Algorithmic-Thinking/21CYS"> 19CSE100 - Problem Solving and Algorithmic Thinking (PSAT) </a>
-- ![](https://img.shields.io/badge/-Asst_Prof-blue) ![](https://img.shields.io/badge/-Lab_Support-lightblue) 20CYS103 - Computer Hardware and System Essentials
-
-### 2020 - 2021 Odd Semester
-
-- ![](https://img.shields.io/badge/-Research_Associate-blue) 18CY712 - Blockchain Technology
-
-## Materials and Resources 
-- ![](https://img.shields.io/badge/-PhD-blue) [21CS637 : Advanced Networks](https://amrita-tifac-cyber-blockchain.github.io/21CS637-Advanced-Networks/)
-- ![](https://img.shields.io/badge/-PhD-blue) [Data Science and Machine Learning Course](https://amrita-tifac-cyber-blockchain.github.io/Coursera-Datascience-and-Machine-Learning/)
-
-## Hackathon 
-- ![](https://img.shields.io/badge/-PhD-blue) [MeRiT: Media Rights Tracking Platform to Tackle Online Piracy](https://amrita-tifac-cyber-blockchain.github.io/MeRiT/)
-
-- [Om: OSINT me](https://amrita-tifac-cyber-blockchain.github.io/Om/)
-
-## Initiatives
-
-- ![](https://img.shields.io/badge/-PhD-blue) [Cyber Security (CS) - Research Analysis and Metrics (RAM)](https://amrita-tifac-cyber-blockchain.github.io/CS-RAM/)
-- ![](https://img.shields.io/badge/-PhD-blue) [Blockchain Research Interest Group](https://amrita-tifac-cyber-blockchain.github.io/B-RIG/)
-- ![](https://img.shields.io/badge/-Asst._Prof-blue) [Kerala Blockchain Academy Innovation Club](https://amrita-tifac-cyber-blockchain.github.io/Kerala-Blockchain-Academy-Innovation-Club/)
-
-
+<table>
+  <tr>
+    <td style="border: none;">
+      <strong><a href="https://github.com/CybeReach">CybeReach</a></strong><br>
+     One-stop cyber locale to complement an individual’s digital health and a progressively safer space.
+    </td>
+    <td style="border: none;">
+      <img src="https://avatars.githubusercontent.com/u/129548777" alt="CybeReach" width=150>
+    </td>
+  </tr>
+ <tr>
+    <td style="border: none;">
+      <strong><a href="https://github.com/WiCyS-Amrita">WiCyS Amrita Student Chapter</a></strong><br>
+     To provide a gender-diverse space to explore the world of Cyber Security by engaging through <br/> mentoring, conferences, and cine analysis. Aspire women in the STEM
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/WiCyS-Amrita/CART-Quotient/blob/main/UI/images/WiCyS_Amrita.png" alt="WiCyS-ASC" width=150>
+    </td>
+  </tr>
+ <tr>
+    <td style="border: none;">
+      <strong><a href="https://github.com/B-RIG">Blockchain - Research Interest Group (B-RIG)</a></strong><br>
+     A vibrant community for developing socio-economic applications using Blockchain Technology.
+    </td>
+    <td style="border: none;">
+      <img src="https://avatars.githubusercontent.com/u/129193826" alt="B-RIG" width=150>
+    </td>
+  </tr>
+ <tr>
+    <td style="border: none;">
+      <strong><a href="https://github.com/KOLECT-Amrita">KOLECT</a></strong><br>
+      Knowledge Connect Platform
+    </td>
+    <td style="border: none;">
+      <img src="https://avatars.githubusercontent.com/u/129194029" alt="KOLECT" width=150>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <strong><a href="https://amrita.toastmastersclubs.org/">Amrita Toastmasters Club (ATC)</a></strong><br>
+    </td>
+    <td style="border: none;">
+      <img src="https://www.toastmasters.org/content/images/globals/toastmasters-logo@2x.png" alt="ATC" width=150>
+    </td>
+  </tr>
+</table>
