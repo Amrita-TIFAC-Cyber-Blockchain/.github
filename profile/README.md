@@ -14,12 +14,13 @@
 |:-----|:------------------:|:------------:|:------------:|
 | 2022-23 Even | 22UCYS - II Sem | 20CYS113 | [Computer Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS181 | [Computer Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
-| 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
+
 
 ##### Completed
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
+| 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
 | 2022-23 Odd | 21UCYS - III Sem | 20CYS202 | [User Interface Design](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User-Interface-Design) |
 | 2022-23 Odd | 21CYS - III Sem | 21CY712 | Blockchain Technology |
 | 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE447-Cloud-Computing) |
@@ -34,8 +35,9 @@
 |:------------:|:------------:|:------------|
 | 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
 | 2022-23 <br/> 21CYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
-| 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gap in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Smart-Contract-Security) |
+| 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gaps in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Bridging-the-gaps-in-Solidity-Smart-Contract-Vulnerability-Detection-Tools) |
 | 2021-22 <br/> 20CYS | Danda Prudhvi Krishna | [SSH-DAuth: Secret Sharing based Decentralized OAuth using Decentralized Identifier](https://github.com/Amrita-TIFAC-Cyber-Blockchain/DAuth-Distributed-OAuth-using-Decentralized-Identifiers-with-Secret-Sharing) |
+| 2021-22 <br/> 20CYS | Pradeep Kumar G | [Vehicular Forensics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Vehicular-Forensics) |
 
 ## Administrative Responsibility
 
