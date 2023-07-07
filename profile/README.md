@@ -22,10 +22,11 @@
 |:-----|:------------------:|:------------:|:------------:|
 | 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
 | 2022-23 Odd | 21UCYS - III Sem | 20CYS202 | [User Interface Design](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User-Interface-Design) |
-| 2022-23 Odd | 21CYS - III Sem | 21CY712 | Blockchain Technology |
+| 2022-23 Odd | 21CYS - III Sem | 21CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2022-21CY712-BlockchainTechnology) |
 | 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE447-Cloud-Computing) |
 | 2021-22 Even | 19ECE/CCE - VI Sem | 19CSE464 | [Fundamentals of Software Engineering](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE464-Fundamentals-of-Software-Engineering) |
-| 2021-22 Odd | 20CYS - III Sem | 21CY712 | Blockchain Technology |
+| 2021-22 Odd | 20CYS - III Sem | 20CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2021-20CY712-BlockchainTechnology) |
+| 2020-21 Odd | 19CYS - III Sem | 18CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2020-18CY712-BlockchainTechnology) |
 
 ## Research Responsibility
 
