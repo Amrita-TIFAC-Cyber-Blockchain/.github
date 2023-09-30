@@ -12,7 +12,7 @@
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
-| 2023-24 Odd | 20UEEE/ELC - VII Sem | 19CSE447 | [Cloud Computing]() |
+| 2023-24 Odd | 20UEEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
 | 2023-24 Odd | 22UCYS - III Sem | 19CSE201 | [Advanced Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE201-Advanced-Programming) |
 
 
@@ -25,7 +25,7 @@
 | 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
 | 2022-23 Odd | 21UCYS - III Sem | 20CYS202 | [User Interface Design](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User-Interface-Design) |
 | 2022-23 Odd | 21CYS - III Sem | 21CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2022-21CY712-BlockchainTechnology) |
-| 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE447-Cloud-Computing) |
+| 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2022_19CSE447-Cloud-Computing) |
 | 2021-22 Even | 19ECE/CCE - VI Sem | 19CSE464 | [Fundamentals of Software Engineering](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE464-Fundamentals-of-Software-Engineering) |
 | 2021-22 Odd | 20CYS - III Sem | 20CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2021-20CY712-BlockchainTechnology) |
 | 2020-21 Odd | 19CYS - III Sem | 18CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2020-18CY712-BlockchainTechnology) |
@@ -36,8 +36,8 @@
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------:|:------------|
-| 2023-24 <br/> 22CYS | Surya S Nair | [V2X Security]() |
-| 2023-24 <br/> 22CYS | Siriparapu Sparshika | [Aviation Cyber Security]() |
+| 2023-24 <br/> 22CYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
+| 2023-24 <br/> 22CYS | Siriparapu Sparshika | [V2X Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
 | 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
 | 2022-23 <br/> 21CYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
 | 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gaps in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Bridging-the-gaps-in-Solidity-Smart-Contract-Vulnerability-Detection-Tools) |
