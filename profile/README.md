@@ -36,6 +36,8 @@
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------:|:------------|
+| 2023-24 <br/> 22CYS | Surya S Nair | [V2X Security]() |
+| 2023-24 <br/> 22CYS | Siriparapu Sparshika | [Aviation Cyber Security]() |
 | 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
 | 2022-23 <br/> 21CYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
 | 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gaps in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Bridging-the-gaps-in-Solidity-Smart-Contract-Vulnerability-Detection-Tools) |
@@ -87,6 +89,14 @@
     </td>
     <td style="border: none;">
       <img src="https://www.toastmasters.org/content/images/globals/toastmasters-logo@2x.png" alt="ATC" width=150>
+    </td>
+  </tr>
+    <tr>
+    <td style="border: none;">
+      <strong><a href="">Amrita - Model United Nations Society (A-MUNSO)</a></strong><br>
+    </td>
+    <td style="border: none;">
+      <img src="" alt="A-MUNSO" width=150>
     </td>
   </tr>
 </table>
