@@ -8,6 +8,14 @@
 
 #### Subject Taught
 
+##### Upcoming
+
+| Year | Batch and Semester | Subject Code | Subject Name | 
+|:-----|:------------------:|:------------:|:------------:|
+| 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
+| 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
+
+
 ##### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
@@ -37,7 +45,7 @@
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------:|:------------|
 | 2023-24 <br/> 22CYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
-| 2023-24 <br/> 22CYS | Siriparapu Sparshika | [V2X Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
+| 2023-24 <br/> 22CYS | Siriparapu Sparshika | [V2I Authentication](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
 | 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
 | 2022-23 <br/> 21CYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
 | 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gaps in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Bridging-the-gaps-in-Solidity-Smart-Contract-Vulnerability-Detection-Tools) |
