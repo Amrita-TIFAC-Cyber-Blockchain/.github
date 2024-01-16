@@ -13,7 +13,7 @@
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
 | 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
-| 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
+| 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS383-Java-Programming-Lab) |
 
 ##### Completed
 
@@ -23,7 +23,7 @@
 | 2023-24 Odd | 22UCYS - III Sem | 19CSE201 | [Advanced Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE201-Advanced-Programming) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS113 | [Computer Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS181 | [Computer Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
-| 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS383-Java-Programming-Lab) |
+| 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_20CYS383-Java-Programming-Lab) |
 | 2022-23 Odd | 21UCYS - III Sem | 20CYS202 | [User Interface Design](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User-Interface-Design) |
 | 2022-23 Odd | 21CYS - III Sem | 21CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2022-21CY712-BlockchainTechnology) |
 | 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2022_19CSE447-Cloud-Computing) |
