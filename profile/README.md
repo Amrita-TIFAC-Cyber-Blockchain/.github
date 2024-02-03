@@ -6,20 +6,20 @@
 
 #### Class Advisor of B.Tech CSE (Cyber Security): [2022 - 2026 Batch](https://github.com/re-bin-d-22ucys)
 
-#### Subject Taught
+### Subject Taught
 
-##### Present
+#### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
 | 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
 | 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS383-Java-Programming-Lab) |
 
-##### Completed
+#### Completed
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
-| 2023-24 Odd | 20UEEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
+| 2023-24 Odd | 20UEEE/ELC/CCE/ECE - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
 | 2023-24 Odd | 22UCYS - III Sem | 19CSE201 | [Advanced Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE201-Advanced-Programming) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS113 | [Computer Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS181 | [Computer Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
@@ -33,12 +33,19 @@
 
 ## Research Responsibility
 
-#### Project Guidance
+### Project Guidance
+
+#### B.Tech - Computer Science (Cyber Security)
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------:|:------------|
 | 2024-25 <br/> U21CYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Design and Implementation of Secure Clipboard](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Design-and-Implementation-of-Secure-Clipboard) |  
 | 2024-25 <br/> U21CYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Scan Detection System](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Port-Scan-detection-System/) |  
+
+#### M.Tech - Cyber Security
+
+| Batch - Year |  Name | Dissertation Title | 
+|:------------:|:------------:|:------------| 
 | 2023-24 <br/> 22CYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
 | 2023-24 <br/> 22CYS | Siriparapu Sparshika | [V2I Authentication](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
 | 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
