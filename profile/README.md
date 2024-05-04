@@ -8,6 +8,15 @@
 
 ### Subject Taught
 
+#### Upcoming 
+
+| Year | Batch and Semester | Subject Code | Subject Name | 
+|:-----|:------------------:|:------------:|:------------:|
+| 2024-25 Odd | 21UCYS - VII Sem | 20CYS402 | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS402-Distributed-Systems-and-Cloud-Computing) |
+| 2024-25 Odd | 22UCYS - V Sem | 19ENV300 | [Environmental_Science](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19ENV300_Environmental_Science)
+| 2024-25 Odd | 23UCYS - III Sem | 19CSE201 | [Advanced-Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_19CSE201-Advanced-Programming) | 
+
+
 #### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
