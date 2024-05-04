@@ -81,7 +81,7 @@
      To provide a gender-diverse space to explore the world of Cyber Security by engaging through <br/> mentoring, conferences, and cine analysis. Aspire women in the STEM
     </td>
     <td style="border: none;">
-      <img src="https://github.com/WiCyS-Amrita/CART-Quotient/blob/main/UI/images/WiCyS_Amrita.png" alt="WiCyS-ASC" width=150>
+      <img src="img/WiCyS_Amrita_Chapter_Logo_New.jpg" alt="WiCyS-ASC" width=150>
     </td>
   </tr>
  <tr>
