@@ -12,23 +12,23 @@
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
-| 2024-25 Odd | 21UCYS - VII Sem | 20CYS402 | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS402-Distributed-Systems-and-Cloud-Computing) |
-| 2024-25 Odd | 22UCYS - V Sem | 19ENV300 | [Environmental_Science](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19ENV300_Environmental_Science)
-| 2024-25 Odd | 23UCYS - III Sem | 19CSE201 | [Advanced-Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_19CSE201-Advanced-Programming) | 
-
-
+| 2024-25 Even | 23UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS383-Java-Programming-Lab) |
+| 2024-25 Even | 22UCYS - VI Sem | 19CSE446  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE446-Internet-of-Things) |
 
 #### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
-| 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
-| 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS383-Java-Programming-Lab) |
+| 2024-25 Odd | 21UCYS - VII Sem | 20CYS402 | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS402-Distributed-Systems-and-Cloud-Computing) |
+| 2024-25 Odd | 22UCYS - V Sem | 19ENV300 | [Environmental_Science](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19ENV300_Environmental_Science)
+| 2024-25 Odd | 23UCYS - III Sem | 19CSE201 | [Advanced-Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_19CSE201-Advanced-Programming) | 
 
 #### Completed
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
+| 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
+| 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS383-Java-Programming-Lab) |
 | 2023-24 Odd | 20UEEE/ELC/CCE/ECE - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
 | 2023-24 Odd | 22UCYS - III Sem | 19CSE201 | [Advanced Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE201-Advanced-Programming) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS113 | [Computer Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
