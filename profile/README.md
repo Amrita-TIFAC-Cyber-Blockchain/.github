@@ -8,25 +8,20 @@
 
 ### Subject Taught
 
-#### Upcoming 
+#### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
-| 2024-25 Even | 23UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS383-Java-Programming-Lab) |
-| 2024-25 Even | 22UCYS - VI Sem | 19CSE446  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE446-Internet-of-Things) |
+| 2024-25 Even | 22UCYS - VI Sem | 24CYS333  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things) |
+| 2024-25 Even | 21UECE/CCE - VII Sem & 24PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24AL733_Connected_Vehicles_and_Security) |
 
-#### Present
+#### Completed
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
 | 2024-25 Odd | 21UCYS - VII Sem | 20CYS402 | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS402-Distributed-Systems-and-Cloud-Computing) |
 | 2024-25 Odd | 22UCYS - V Sem | 19ENV300 | [Environmental_Science](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19ENV300_Environmental_Science)
 | 2024-25 Odd | 23UCYS - III Sem | 19CSE201 | [Advanced-Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_19CSE201-Advanced-Programming) | 
-
-#### Completed
-
-| Year | Batch and Semester | Subject Code | Subject Name | 
-|:-----|:------------------:|:------------:|:------------:|
 | 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
 | 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS383-Java-Programming-Lab) |
 | 2023-24 Odd | 20UEEE/ELC/CCE/ECE - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
