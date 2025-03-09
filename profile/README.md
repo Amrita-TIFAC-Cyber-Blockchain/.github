@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../profile/img/AVV_CYS_Logo.png" alt="Amrita TIFAC" width=700 />
+</p>
+
 # Ramaguru Radhakrishnan's Works and Collaboration 
 
 [Ramaguru's](https://ramagururadhakrishnan.github.io/) work in Amrita School of Computing and Amrita School of Engineering, Coimbatore, as M.Tech Cyber Security Student, Research Associate, Ph.D Research Scholar & Assistant Professor.
