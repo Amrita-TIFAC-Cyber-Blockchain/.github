@@ -4,7 +4,7 @@
 
 # Ramaguru Radhakrishnan's Works and Collaboration 
 
-[Ramaguru's](https://ramagururadhakrishnan.github.io/) work in Amrita School of Computing and Amrita School of Engineering, Coimbatore, as M.Tech Cyber Security Student, Research Associate, Ph.D Research Scholar & Assistant Professor.
+[Ramaguru's](https://ramagururadhakrishnan.github.io/) work in Amrita School of Engineering / Computing, Coimbatore, as M.Tech Cyber Security Student, Research Associate, Ph.D Research Scholar & Assistant Professor.
 
 ## Academic - Teaching Responsibility
 
@@ -18,6 +18,7 @@
 |:-----|:------------------:|:------------:|:------------:|
 | 2025-26 Odd | 22UCYS - VII Sem | 20CYS402  | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS402-Distributed-Systems-and-Cloud-Computing) |
 | 2025-26 Odd | 22UCYS - VII Sem | 20CYS433 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS433-Blockchain-Technology) |
+| 2025-26 Odd | 24UCYS - III Sem & 25PCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/22AVP103-Mastery-Over-Mind) |
 
 #### Completed
 
