@@ -17,7 +17,7 @@
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
 | 2025-26 Odd | 22UCYS - VII Sem | 20CYS402  | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS402-Distributed-Systems-and-Cloud-Computing) |
-| 2025-26 Odd | 22UCYS - VII Sem | 20CYS433 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS433-Blockchain-Technology) |
+| 2025-26 Odd | 22UCYS - VII Sem | 24CYS336 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS336-Blockchain-Technology) |
 | 2025-26 Odd | 24UCYS - III Sem & 25PCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/22AVP103-Mastery-Over-Mind) |
 
 #### Completed
