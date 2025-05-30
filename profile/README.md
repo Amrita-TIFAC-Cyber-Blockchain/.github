@@ -26,23 +26,23 @@
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
 | 2024-25 Even | 22UCYS - VI Sem | 24CYS333  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things) |
-| 2024-25 Even | 21UECE/CCE - VII Sem & 24PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24AL733_Connected_Vehicles_and_Security) |
+| 2024-25 Even | 24PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24AL733_Connected_Vehicles_and_Security) |
 | 2024-25 Odd | 21UCYS - VII Sem | 20CYS402 | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS402-Distributed-Systems-and-Cloud-Computing) |
 | 2024-25 Odd | 22UCYS - V Sem | 19ENV300 | [Environmental_Science](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19ENV300_Environmental_Science)
 | 2024-25 Odd | 23UCYS - III Sem | 19CSE201 | [Advanced-Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_19CSE201-Advanced-Programming) | 
 | 2023-24 Even | 21UCYS - VI Sem | 20CYS312 | [Principles of Programming Languages](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS312_Principles_of_Programming) |
 | 2023-24 Even | 22UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2024_20CYS383-Java-Programming-Lab) |
-| 2023-24 Odd | 20UEEE/ELC/CCE/ECE - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
+| 2023-24 Odd | 20UEEE/UELC/UCCE/UECE - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_19CSE447-Cloud-Computing) |
 | 2023-24 Odd | 22UCYS - III Sem | 19CSE201 | [Advanced Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE201-Advanced-Programming) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS113 | [Computer Programming](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
 | 2022-23 Even | 22UCYS - II Sem | 20CYS181 | [Computer Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS113-20CYS181-Computer-Programming-and-Lab) |
 | 2022-23 Even | 21UCYS - IV Sem | 20CYS383 | [Java Programming Lab](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2023_20CYS383-Java-Programming-Lab) |
 | 2022-23 Odd | 21UCYS - III Sem | 20CYS202 | [User Interface Design](https://github.com/Amrita-TIFAC-Cyber-Blockchain/20CYS202-User-Interface-Design) |
-| 2022-23 Odd | 21CYS - III Sem | 21CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2022-21CY712-BlockchainTechnology) |
-| 2022-23 Odd | 19EEE/ELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2022_19CSE447-Cloud-Computing) |
-| 2021-22 Even | 19ECE/CCE - VI Sem | 19CSE464 | [Fundamentals of Software Engineering](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE464-Fundamentals-of-Software-Engineering) |
-| 2021-22 Odd | 20CYS - III Sem | 20CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2021-20CY712-BlockchainTechnology) |
-| 2020-21 Odd | 19CYS - III Sem | 18CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2020-18CY712-BlockchainTechnology) |
+| 2022-23 Odd | 21PCYS - III Sem | 21CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2022-21CY712-BlockchainTechnology) |
+| 2022-23 Odd | 19UEEE/UELC - VII Sem | 19CSE447 | [Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2022_19CSE447-Cloud-Computing) |
+| 2021-22 Even | 19UECE/UCCE - VI Sem | 19CSE464 | [Fundamentals of Software Engineering](https://github.com/Amrita-TIFAC-Cyber-Blockchain/19CSE464-Fundamentals-of-Software-Engineering) |
+| 2021-22 Odd | 20PCYS - III Sem | 20CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2021-20CY712-BlockchainTechnology) |
+| 2020-21 Odd | 19PCYS - III Sem | 18CY712 | [Blockchain Technology](https://ramagururadhakrishnan.github.io/teaching/2020-18CY712-BlockchainTechnology) |
 
 ## Research Responsibility
 
