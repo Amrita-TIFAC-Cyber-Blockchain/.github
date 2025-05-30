@@ -10,16 +10,16 @@
 
 #### Class Advisor of B.Tech CSE (Cyber Security): [2022 - 2026 Batch](https://github.com/re-bin-d-22ucys)
 
-### Subject Taught
+### Courses Offered
 
 #### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------:|
-| 2025-26 Odd | 24UG - III Sem | 23LIV390  | [Live-in-Labs® I](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Live-in-Labs) |
+| 2025-26 Odd | 24UEngg - III Sem | 23LIV390  | [Live-in-Labs® I](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV390-Live-in-Labs-I) |
 | 2025-26 Odd | 22UCYS - VII Sem | 20CYS402  | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS402-Distributed-Systems-and-Cloud-Computing) |
 | 2025-26 Odd | 22UCYS - VII Sem | 24CYS336 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS336-Blockchain-Technology) |
-| 2025-26 Odd | 25UCYS - I Sem & 25PCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/22AVP103-Mastery-Over-Mind) |
+| 2025-26 Odd | 25UCYS & 25PCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/22AVP103-Mastery-Over-Mind) |
 
 #### Completed
 
