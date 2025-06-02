@@ -15,11 +15,11 @@
 #### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
-|:-----|:------------------:|:------------:|:------------:|
+|:-----|:------------------:|:------------:|:-------------|
 | 2025-26 Odd | 24UEngg - III Sem | 23LIV390  | [Live-in-Labs® I](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV390-Live-in-Labs-I) |
 | 2025-26 Odd | 22UCYS - VII Sem | 20CYS402  | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS402-Distributed-Systems-and-Cloud-Computing) |
 | 2025-26 Odd | 22UCYS - VII Sem | 24CYS336 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS336-Blockchain-Technology) |
-| 2025-26 Odd | 25UCYS & 25PCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/22AVP103-Mastery-Over-Mind) |
+| 2025-26 Odd | 25UCYS & 25PCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_22AVP103-Mastery-Over-Mind) |
 
 #### Completed
 
@@ -51,21 +51,21 @@
 #### B.Tech - Computer Science (Cyber Security)
 
 | Batch - Year |  Name | Dissertation Title | 
-|:------------:|:------------:|:------------|
-| 2024-25 <br/> U21CYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Design and Implementation of Secure Clipboard](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Design-and-Implementation-of-Secure-Clipboard) |  
-| 2024-25 <br/> U21CYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Scan Detection System](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Port-Scan-detection-System/) |  
+|:------------:|:------------|:------------|
+| 2024-25 <br/> 21UCYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Design and Implementation of Secure Clipboard](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Design-and-Implementation-of-Secure-Clipboard) |  
+| 2024-25 <br/> 21UCYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Scan Detection System](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Port-Scan-detection-System/) |  
 
 #### M.Tech - Cyber Security
 
 | Batch - Year |  Name | Dissertation Title | 
-|:------------:|:------------:|:------------| 
-| 2023-24 <br/> 22CYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
-| 2023-24 <br/> 22CYS | Siriparapu Sparshika | [V2I Authentication](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
-| 2022-23 <br/> 21CYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
-| 2022-23 <br/> 21CYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
-| 2022-23 <br/> 21CYS| Pothuri Lakshmi Harika | [Bridging the gaps in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Bridging-the-gaps-in-Solidity-Smart-Contract-Vulnerability-Detection-Tools) |
-| 2021-22 <br/> 20CYS | Danda Prudhvi Krishna | [SSH-DAuth: Secret Sharing based Decentralized OAuth using Decentralized Identifier](https://github.com/Amrita-TIFAC-Cyber-Blockchain/SSH-DAuth-Secret-Sharing-based-Distributed-OAuth-using-Decentralized-Identifier) |
-| 2021-22 <br/> 20CYS | Pradeep Kumar G | [Vehicular Forensics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Vehicular-Forensics) |
+|:------------:|:------------|:------------| 
+| 2023-24 <br/> 22PCYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
+| 2023-24 <br/> 22PCYS | Siriparapu Sparshika | [V2I Authentication](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
+| 2022-23 <br/> 21PCYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
+| 2022-23 <br/> 21PCYS | Mohamed Feroz Khan D | [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization) |
+| 2022-23 <br/> 21PCYS| Pothuri Lakshmi Harika | [Bridging the gaps in Solidity Smart Contract Vulnerability Detection Tools](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Bridging-the-gaps-in-Solidity-Smart-Contract-Vulnerability-Detection-Tools) |
+| 2021-22 <br/> 20PCYS | Danda Prudhvi Krishna | [SSH-DAuth: Secret Sharing based Decentralized OAuth using Decentralized Identifier](https://github.com/Amrita-TIFAC-Cyber-Blockchain/SSH-DAuth-Secret-Sharing-based-Distributed-OAuth-using-Decentralized-Identifier) |
+| 2021-22 <br/> 20PCYS | Pradeep Kumar G | [Vehicular Forensics](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Vehicular-Forensics) |
 
 ## Administrative Responsibility
 
