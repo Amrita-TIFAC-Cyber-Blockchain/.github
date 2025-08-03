@@ -52,8 +52,10 @@
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------|:------------|
-| 2024-25 <br/> 21UCYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Design and Implementation of Secure Clipboard](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Design-and-Implementation-of-Secure-Clipboard) |  
-| 2024-25 <br/> 21UCYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Scan Detection System](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Port-Scan-detection-System/) |  
+| 2025-26 <br/> 22UCYS | Meera N<br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |  [Simulation Based Cyber Security Awareness and Training Tool](https://github.com/amrita-tifac-cys-btech/Simulation-Based-Cyber-Security-Awareness-and-Training-Tool) |  
+| 2025-26 <br/> 22UCYS | Lalitha K <br/> Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Saride Someswara Sai Sri Chakri |  [Exploring Data Diodes for Cyber Physical System Security](https://github.com/amrita-tifac-cys-btech/Exploring-Data-Diodes-for-Cyber-Physical-System-Security) |  
+| 2024-25 <br/> 21UCYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Application-Aware Clipboard Security Using Configurable Policy Rules](https://github.com/amrita-tifac-cys-btech/Application-Aware-Clipboard-Security-Using-Configurable-Policy-Rules) |  
+| 2024-25 <br/> 21UCYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Watch Dog: Real-Time Port Scan Detection and Response Tool](https://github.com/amrita-tifac-cys-btech/Port-Watch-Dog-Real-Time-Port-Scan-Detection-and-Response-Tool) |  
 
 #### M.Tech - Cyber Security
 
@@ -72,10 +74,19 @@
 <table>
   <tr>
     <td style="border: none;">
+      <strong><a href="https://iic.cb.amrita.edu/">Institution's Innovation Council (IIC)</a></strong><br>
+    </td>
+    <td style="border: none; text-align: center;">
+      <img src="https://raw.githubusercontent.com/AVV-IIC/Admin/refs/heads/main/Assets/logo/IIC.png" alt="CybeReach" width=200>
+    </td>
+  </tr>
+ <tr>
+  <tr>
+    <td style="border: none;">
       <strong><a href="https://github.com/CybeReach">CybeReach</a></strong><br>
      One-stop cyber locale to complement an individual’s digital health and a progressively safer space.
     </td>
-    <td style="border: none;">
+    <td style="border: none; text-align: center;">
       <img src="https://avatars.githubusercontent.com/u/129548777" alt="CybeReach" width=150>
     </td>
   </tr>
@@ -84,7 +95,7 @@
       <strong><a href="https://github.com/WiCyS-Amrita">WiCyS Amrita Student Chapter</a></strong><br>
      To provide a gender-diverse space to explore the world of Cyber Security by engaging through <br/> mentoring, conferences, and cine analysis. Aspire women in the STEM
     </td>
-    <td style="border: none;">
+    <td style="border: none; text-align: center;">
       <img src="img/WiCyS_Amrita_Chapter_Logo_New.jpg" alt="WiCyS-ASC" width=150>
     </td>
   </tr>
@@ -93,7 +104,7 @@
       <strong><a href="https://github.com/B-RIG">Blockchain - Research Interest Group (B-RIG)</a></strong><br>
      A vibrant community for developing socio-economic applications using Blockchain Technology.
     </td>
-    <td style="border: none;">
+    <td style="border: none; text-align: center;">
       <img src="https://avatars.githubusercontent.com/u/129193826" alt="B-RIG" width=150>
     </td>
   </tr>
@@ -102,7 +113,7 @@
       <strong><a href="https://github.com/KOLECT-Amrita">KOLECT</a></strong><br>
       Knowledge Connect Platform
     </td>
-    <td style="border: none;">
+    <td style="border: none; text-align: center;">
       <img src="https://avatars.githubusercontent.com/u/129194029" alt="KOLECT" width=150>
     </td>
   </tr>
@@ -110,7 +121,7 @@
     <td style="border: none;">
       <strong><a href="https://amrita.toastmastersclubs.org/">Amrita Toastmasters Club (ATC)</a></strong><br>
     </td>
-    <td style="border: none;">
+    <td style="border: none; text-align: center; vertical-align: middle;">
       <img src="https://www.toastmasters.org/content/images/globals/toastmasters-logo@2x.png" alt="ATC" width=150>
     </td>
   </tr>
@@ -118,7 +129,7 @@
     <td style="border: none;">
       <strong><a href="">Amrita - Model United Nations Society (A-MUNSO)</a></strong><br>
     </td>
-    <td style="border: none;">
+    <td style="border: none; text-align: center; vertical-align: middle;">
       <img src="img/A-MUNSO.png" alt="A-MUNSO" width=180>
     </td>
   </tr>
