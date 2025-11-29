@@ -64,7 +64,7 @@
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------|:------------| 
-| 2025-26 <br/> 24PCYS | Rangineny Sai Kiran | [Multi-Layer Framework for GPS Spoofing Detection in Civilian Platforms]()  | 
+| 2025-26 <br/> 24PCYS | Rangineny Sai Kiran | [Multi-Layer Framework for GPS Spoofing Detection in Civilian Platforms](https://github.com/amrita-tifac-cys-mtech/Dual-Domain-ML-Framework-for-Position-Spoofing-Detection-in-Autonomous-Vehicles-and-Aerial-Platforms)  | 
 | 2023-24 <br/> 22PCYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
 | 2023-24 <br/> 22PCYS | Siriparapu Sparshika | [V2I Authentication](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
 | 2022-23 <br/> 21PCYS | Khandagale Swapneel Roasheb | [MeRiT: Media Tracking Platform to Tackle Online Piracy using AWS Rekognition](https://github.com/Amrita-TIFAC-Cyber-Blockchain/MeRiT-Media-Tracking-Platform-to-Tackle-Online-Piracy-using-AWS-Rekognition) |
