@@ -18,12 +18,12 @@
 |:-----|:------------------:|:------------:|:-------------|
 | 2025-26 Even | 25PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24AL733_Connected_Vehicles_and_Security) |
 | 2025-26 Even | 23UCYS - VI Sem | 24CYS333  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS333-Internet-of-Things) |
-| 2025-26 Odd | 25UCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_22AVP103-Mastery-Over-Mind) |
 
 #### Completed
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------|
+| 2025-26 Odd | 25UCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_22AVP103-Mastery-Over-Mind) |
 | 2025-26 Odd | 25PCYS - I Sem | 25AVP501 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_25AVP501-Mastery-Over-Mind) |
 | 2025-26 Odd | 24UEngg - III Sem | 23LIV390  | [Live-in-Labs® I](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV390-Live-in-Labs-I) |
 | 2025-26 Odd | 22UCYS - VII Sem | 20CYS402  | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_20CYS402-Distributed-Systems-and-Cloud-Computing) |
