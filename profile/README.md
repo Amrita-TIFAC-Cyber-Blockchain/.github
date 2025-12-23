@@ -16,6 +16,7 @@
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:-------------|
+| 2025-26 Even | 24UEngg - IV Sem | 23LIV490  | [Live-in-Labs® II](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV490-Live-in-Labs-II) |
 | 2025-26 Even | 25PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24AL733_Connected_Vehicles_and_Security) |
 | 2025-26 Even | 23UCYS - VI Sem | 24CYS333  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS333-Internet-of-Things) |
 
