@@ -12,6 +12,14 @@
 
 ### Courses Offered
 
+### Upcoming
+
+| Year | Batch and Semester | Subject Code | Subject Name | 
+|:-----|:------------------:|:------------:|:-------------|
+| 2026-27 Odd | 26UCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_22AVP103-Mastery-Over-Mind) |
+| 2026-27 Odd | 26PCYS - I Sem | 25AVP501 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_25AVP501-Mastery-Over-Mind) |
+| 2026-27 Odd | 23UCYS - VII Sem | 24CYS336 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_24CYS336-Blockchain-Technology) |
+
 #### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
