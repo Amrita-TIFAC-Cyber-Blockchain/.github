@@ -12,26 +12,21 @@
 
 ### Courses Offered
 
-### Upcoming
+#### Present
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:-------------|
 | 2026-27 Odd | 26UCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_22AVP103-Mastery-Over-Mind) |
 | 2026-27 Odd | 26PCYS - I Sem | 25AVP501 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_25AVP501-Mastery-Over-Mind) |
-| 2026-27 Odd | 23UCYS - VII Sem | 24CYS336 | [Blockchain Technology](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_24CYS336-Blockchain-Technology) |
-
-#### Present
-
-| Year | Batch and Semester | Subject Code | Subject Name | 
-|:-----|:------------------:|:------------:|:-------------|
-| 2025-26 Even | 24UEngg - IV Sem | 23LIV490  | [Live-in-Labs® II](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV490-Live-in-Labs-II) |
-| 2025-26 Even | 25PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24AL733_Connected_Vehicles_and_Security) |
-| 2025-26 Even | 23UCYS - VI Sem | 24CYS333  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS333-Internet-of-Things) |
+| 2026-27 Odd | 23UCYS - VII Sem | 24CYS336 | [Distributed Systems and Cloud Computing](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2026_20CYS402-Distributed-Systems-and-Cloud-Computing) |
 
 #### Completed
 
 | Year | Batch and Semester | Subject Code | Subject Name | 
 |:-----|:------------------:|:------------:|:------------|
+| 2025-26 Even | 24UEngg - IV Sem | 23LIV490  | [Live-in-Labs® II](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV490-Live-in-Labs-II) |
+| 2025-26 Even | 25PALE - II Sem | 24AL733  | [Connected Vehicles and Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24AL733_Connected_Vehicles_and_Security) |
+| 2025-26 Even | 23UCYS - VI Sem | 24CYS333  | [Internet of Things](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS333-Internet-of-Things) |
 | 2025-26 Odd | 25UCYS - I Sem | 22AVP103 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_22AVP103-Mastery-Over-Mind) |
 | 2025-26 Odd | 25PCYS - I Sem | 25AVP501 | [Mastery Over Mind](https://github.com/Amrita-TIFAC-Cyber-Blockchain/2025_25AVP501-Mastery-Over-Mind) |
 | 2025-26 Odd | 24UEngg - III Sem | 23LIV390  | [Live-in-Labs® I](https://github.com/Amrita-TIFAC-Cyber-Blockchain/23LIV390-Live-in-Labs-I) |
