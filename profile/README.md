@@ -55,18 +55,18 @@
 
 ### Project Guidance
 
-#### B.Tech - Computer Science (Cyber Security)
+#### B.Tech
 
-| Batch - Year |  Name | Dissertation Title | 
+| Batch - Year |  Name | Project Title | 
 |:------------:|:------------|:------------|
 | 2026-27 <br/> 23UEEE | Abhimanyu P M <br/> Deepana S <br/> Sanjay T S |  [Blockchain-enabled Decentralized P2P Energy Trading](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-P2P-Energy-Trading) |  
 | 2026-27 <br/> 23UCYS | Ponvedica M S<br/> Soffia K N<br/> Vedhavarshini Vijayakumar |  [IDE Extension Vulernability Detection Framework](https://github.com/amrita-tifac-cys-btech/IDE-Extension-Vulnerability) |  
-| 2025-26 <br/> 22UCYS | Meera N<br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |  [Simulation Based Cyber Security Awareness and Training Tool](https://github.com/amrita-tifac-cys-btech/Multimode-Cyber-Awareness-Training-System-with-CARTQ-Scoring) |  
+| 2025-26 <br/> 22UCYS | Meera N<br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |  [Adaptive Multimode Cyber Awareness Training Platform with Automated Challenge Synthesis and Quantified Cyber Awareness, Recognition, and Treatment Scoring (CARTQ)](https://github.com/amrita-tifac-cys-btech/Multimode-Cyber-Awareness-Training-System-with-CARTQ-Scoring) |  
 | 2025-26 <br/> 22UCYS | Lalitha K <br/> Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Saride Someswara Sai Sri Chakri |  [Exploring Data Diodes for Cyber Physical System Security](https://github.com/amrita-tifac-cys-btech/Exploring-Data-Diodes-for-Cyber-Physical-System-Security) |  
 | 2024-25 <br/> 21UCYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Application-Aware Clipboard Security Using Configurable Policy Rules](https://github.com/amrita-tifac-cys-btech/Application-Aware-Clipboard-Security-Using-Configurable-Policy-Rules) |  
 | 2024-25 <br/> 21UCYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Watch Dog: Real-Time Port Scan Detection and Response Tool](https://github.com/amrita-tifac-cys-btech/Port-Watch-Dog-Real-Time-Port-Scan-Detection-and-Response-Tool) |  
 
-#### M.Tech - Cyber Security
+#### M.Tech 
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------|:------------| 
