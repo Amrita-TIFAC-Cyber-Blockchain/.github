@@ -59,7 +59,9 @@
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------|:------------|
-| 2025-26 <br/> 22UCYS | Meera N<br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |  [Simulation Based Cyber Security Awareness and Training Tool](https://github.com/amrita-tifac-cys-btech/Simulation-Based-Cyber-Security-Awareness-and-Training-Tool) |  
+| 2026-27 <br/> 23UEEE | Abhimanyu P M <br/> Deepana S <br/> Sanjay T S |  [Blockchain-enabled Decentralized P2P Energy Trading](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-P2P-Energy-Trading) |  
+| 2026-27 <br/> 23UCYS | Ponvedica M S<br/> Soffia K N<br/> Vedhavarshini Vijayakumar |  [IDE Extension Vulernability Detection Framework](https://github.com/amrita-tifac-cys-btech/IDE-Extension-Vulnerability) |  
+| 2025-26 <br/> 22UCYS | Meera N<br/> Nedurumalli Vedvarshith Reddy <br/> Kolluru Sai Supraj <br/> Amita Narayanan Kutty |  [Simulation Based Cyber Security Awareness and Training Tool](https://github.com/amrita-tifac-cys-btech/Multimode-Cyber-Awareness-Training-System-with-CARTQ-Scoring) |  
 | 2025-26 <br/> 22UCYS | Lalitha K <br/> Parthiv Kumar Nikku <br/> Pillimetla Vamsi <br/> Saride Someswara Sai Sri Chakri |  [Exploring Data Diodes for Cyber Physical System Security](https://github.com/amrita-tifac-cys-btech/Exploring-Data-Diodes-for-Cyber-Physical-System-Security) |  
 | 2024-25 <br/> 21UCYS | Aishwarya G <br/> Alagu Soundarya G <br/> Deepthi G <br/> S Adhwaith <br/> Suvetha DP <br/> Yaswanth G |  [Application-Aware Clipboard Security Using Configurable Policy Rules](https://github.com/amrita-tifac-cys-btech/Application-Aware-Clipboard-Security-Using-Configurable-Policy-Rules) |  
 | 2024-25 <br/> 21UCYS | Abinesh G <br/> Anu Priya P <br/> Pranav SR <br/> Sanjai Prashad S <br/> | [Port Watch Dog: Real-Time Port Scan Detection and Response Tool](https://github.com/amrita-tifac-cys-btech/Port-Watch-Dog-Real-Time-Port-Scan-Detection-and-Response-Tool) |  
@@ -68,6 +70,9 @@
 
 | Batch - Year |  Name | Dissertation Title | 
 |:------------:|:------------|:------------| 
+| 2026-27 <br/> 25PAEL | Kalirajan M | [Implementation of CAN Attack Detection and Remote SIEM Monitoring for Connected Vehicles using Raspberry Pi](https://github.com/Amrita-TIFAC-Cyber-Blockchain/CAN-Attack-Detection-and-Remote-SIEM-Monitoring-for-Connected-Vehicles)  | 
+| 2026-27 <br/> 25PCYS | Krishna Vejahash K R | [AI-Driven Chaincode Vulnerability Detection](https://github.com/amrita-tifac-cys-mtech/AI-Driven-Chaincode-Vulnerability-Detection)  | 
+| 2026-27 <br/> 25PCYS | Pratham Gupta | [An LLM-Drive Framework for Security Rule and Patch Generation for Go-based Hyperledger Fabric Chaincode](https://github.com/amrita-tifac-cys-mtech/LLM-Driven-Framework-Security-Rule-and-Patch-Generation)  | 
 | 2025-26 <br/> 24PCYS | Rangineny Sai Kiran | [Multi-Layer Framework for GPS Spoofing Detection in Civilian Platforms](https://github.com/amrita-tifac-cys-mtech/Dual-Domain-ML-Framework-for-Position-Spoofing-Detection-in-Autonomous-Vehicles-and-Aerial-Platforms)  | 
 | 2023-24 <br/> 22PCYS | Surya S Nair | [Aviation Cyber Security](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Aviation-Cyber-Security)  |
 | 2023-24 <br/> 22PCYS | Siriparapu Sparshika | [V2I Authentication](https://github.com/Amrita-TIFAC-Cyber-Blockchain/V2X-Security) |
