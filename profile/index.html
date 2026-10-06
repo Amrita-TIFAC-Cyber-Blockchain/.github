@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Teaching Portfolio | Ramaguru Radhakrishnan</title>
+<style>
+:root{
+  --maroon:#8b1538; --maroon2:#b32046; --ink:#1d2430; --muted:#667085;
+  --bg:#f5f7fa; --card:#fff; --line:#e6e9ef; --green:#16805a;
+  --blue:#2457d6; --gold:#a76b00; --shadow:0 12px 35px rgba(25,35,55,.08);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+a{color:inherit;text-decoration:none}
+.topbar{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.94);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav{max-width:1320px;margin:auto;padding:12px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px}
+.brand{display:flex;align-items:center;gap:12px;font-weight:800}
+.brandmark{width:38px;height:38px;border-radius:11px;background:linear-gradient(135deg,var(--maroon),var(--maroon2));color:white;display:grid;place-items:center}
+.navlinks{display:flex;gap:8px;flex-wrap:wrap}
+.navlinks a{padding:8px 12px;border-radius:9px;color:#4b5565;font-size:13px;font-weight:650}
+.navlinks a:hover{background:#f3e9ed;color:var(--maroon)}
+.hero{background:linear-gradient(135deg,#fff 0%,#fff8fa 55%,#f3f6ff 100%);border-bottom:1px solid var(--line)}
+.hero-inner{max-width:1320px;margin:auto;padding:58px 24px 46px;display:grid;grid-template-columns:1.5fr .8fr;gap:35px;align-items:center}
+.eyebrow{text-transform:uppercase;letter-spacing:.12em;color:var(--maroon);font-size:12px;font-weight:800}
+h1{font-size:clamp(34px,5vw,62px);line-height:1.02;margin:12px 0 14px;letter-spacing:-.045em}
+.hero p{font-size:17px;color:var(--muted);max-width:800px;line-height:1.65}
+.profilebox{background:white;border:1px solid var(--line);border-radius:22px;padding:24px;box-shadow:var(--shadow)}
+.profilebox .role{font-weight:800;font-size:18px}.profilebox .org{color:var(--muted);margin-top:6px;line-height:1.5}
+.btn{display:inline-flex;align-items:center;gap:8px;background:var(--ink);color:white;padding:11px 15px;border-radius:10px;font-weight:750;font-size:13px;margin-top:18px}
+.btn:hover{background:#000}
+.container{max-width:1320px;margin:auto;padding:38px 24px}
+.section-head{display:flex;justify-content:space-between;align-items:end;gap:15px;margin-bottom:18px}
+.section-head h2{margin:0;font-size:28px;letter-spacing:-.025em}.section-head p{margin:4px 0 0;color:var(--muted)}
+.metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.metric{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px;box-shadow:0 4px 16px rgba(25,35,55,.035)}
+.metric .num{font-size:31px;font-weight:850}.metric .label{color:var(--muted);font-size:13px;margin-top:4px}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:16px 0}
+.tab{border:1px solid var(--line);background:#fff;padding:10px 14px;border-radius:10px;cursor:pointer;font-weight:750;color:#536071}
+.tab.active{background:var(--maroon);border-color:var(--maroon);color:#fff}
+.sem-panel{display:none}.sem-panel.active{display:block}
+.sem-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:18px}
+.panel{background:#fff;border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow);padding:20px}
+.panel h3{margin:0 0 15px;font-size:18px}
+.course-list{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.course{border:1px solid var(--line);border-radius:14px;padding:15px;transition:.18s;background:#fff;cursor:pointer}
+.course:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(25,35,55,.08);border-color:#d6b7c1}
+.course .code{font-size:11px;color:var(--maroon);font-weight:850;letter-spacing:.04em}
+.course .name{font-weight:800;margin:6px 0}.course .meta{font-size:12px;color:var(--muted);line-height:1.5}
+.course .repo{display:inline-block;margin-top:10px;color:var(--blue);font-size:12px;font-weight:800}
+.timetable{display:grid;grid-template-columns:82px repeat(5,1fr);border:1px solid var(--line);border-radius:14px;overflow:hidden}
+.tt{min-height:74px;padding:9px;border-right:1px solid var(--line);border-bottom:1px solid var(--line);font-size:11px}
+.tt.head{background:#f7f8fb;font-weight:800;color:#667085;min-height:auto}.tt.time{font-weight:800;color:#667085;background:#fafbfc}
+.tt.course{background:#fff8fa;border:0;border-right:1px solid var(--line);border-bottom:1px solid var(--line);border-radius:0;cursor:pointer}
+.tt.course:hover{background:#f9edf1;transform:none}.tt.course b{display:block;font-size:11px}.tt.course span{color:#7a5260;font-size:10px}
+.note{font-size:11px;color:var(--muted);margin-top:12px}
+.table-wrap{overflow:auto;background:white;border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+input,select{border:1px solid var(--line);background:white;border-radius:10px;padding:10px 12px;font:inherit;font-size:13px;outline:none}
+input:focus,select:focus{border-color:#b87b8d;box-shadow:0 0 0 3px #f7e9ee}
+table{width:100%;border-collapse:collapse;min-width:920px}
+th,td{padding:13px 14px;border-bottom:1px solid var(--line);text-align:left;font-size:12px;vertical-align:top}
+th{background:#f8f9fb;color:#596579;font-size:11px;text-transform:uppercase;letter-spacing:.06em;position:sticky;top:0}
+td a{color:var(--blue);font-weight:750}.badge{display:inline-block;padding:4px 7px;border-radius:999px;background:#f2f4f7;color:#596579;font-weight:750;font-size:10px}
+.timeline{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.year{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px}.year h3{margin:0 0 12px;color:var(--maroon)}
+.year ul{padding-left:18px;margin:0}.year li{margin:7px 0;color:#4b5565;font-size:13px}
+footer{margin-top:35px;background:#1e2530;color:#d8dde6;padding:28px 24px;text-align:center;font-size:12px}
+@media(max-width:900px){.hero-inner,.sem-grid{grid-template-columns:1fr}.metrics{grid-template-columns:repeat(2,1fr)}.course-list,.timeline{grid-template-columns:1fr}}
+@media(max-width:560px){.navlinks{display:none}.metrics{grid-template-columns:1fr 1fr}.container{padding:28px 14px}.hero-inner{padding:42px 14px}}
+</style>
+</head>
+<body>
+<header class="topbar">
+  <nav class="nav">
+    <div class="brand"><div class="brandmark">RR</div><span>Teaching Portfolio</span></div>
+    <div class="navlinks">
+      <a href="#overview">Overview</a><a href="#semesters">Semesters</a><a href="#courses">Courses</a><a href="#timeline">Journey</a>
+    </div>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="eyebrow">Academic Teaching Portfolio</div>
+      <h1>Teaching, Workload &amp;<br>Course Repositories</h1>
+      <p>A semester-wise view of courses handled by <strong>Mr. Ramaguru Radhakrishnan</strong>, with an interactive timetable and direct access to the corresponding GitHub course repositories.</p>
+      <a class="btn" href="https://github.com/Amrita-TIFAC-Cyber-Blockchain?view_as=public" target="_blank" rel="noopener">⌘ View GitHub Teaching Work</a>
+    </div>
+    <div class="profilebox">
+      <div class="role">Assistant Professor (Senior Grade)</div>
+      <div class="org">TIFAC-CORE in Cyber Security<br>Amrita Vishwa Vidyapeetham, Coimbatore</div>
+      <a class="btn" href="https://amrita.edu/faculty/ramaguru-radhakrishnan/" target="_blank" rel="noopener">Faculty Profile ↗</a>
+    </div>
+  </div>
+</section>
+
+<main>
+<section class="container" id="overview">
+  <div class="section-head"><div><h2>Teaching at a glance</h2><p>Based on the teaching record published in the Amrita-TIFAC-Cyber-Blockchain GitHub profile.</p></div></div>
+  <div class="metrics">
+    <div class="metric"><div class="num">20+</div><div class="label">Teaching assignments listed</div></div>
+    <div class="metric"><div class="num">17</div><div class="label">Academic course titles / course codes represented</div></div>
+    <div class="metric"><div class="num">2020–21</div><div class="label">Teaching record starts</div></div>
+    <div class="metric"><div class="num">2026–27</div><div class="label">Current teaching cycle</div></div>
+  </div>
+</section>
+
+<section class="container" id="semesters">
+  <div class="section-head"><div><h2>Semester-wise workload</h2><p>Select a semester to view courses and a typical weekly timetable.</p></div></div>
+  <div class="tabs" id="tabs"></div>
+  <div id="semesterPanels"></div>
+</section>
+
+<section class="container" id="courses">
+  <div class="section-head"><div><h2>Course portfolio</h2><p>Search, filter and open any course repository directly.</p></div></div>
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search course, code, programme..." style="min-width:280px">
+    <select id="yearFilter"><option value="">All academic years</option></select>
+    <select id="typeFilter"><option value="">All types</option><option>Theory</option><option>Lab</option><option>Experiential</option></select>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead><tr><th>Academic Year</th><th>Semester / Batch</th><th>Course Code</th><th>Course</th><th>Programme</th><th>Type</th><th>Repository</th></tr></thead>
+      <tbody id="courseTable"></tbody>
+    </table>
+  </div>
+</section>
+
+<section class="container" id="timeline">
+  <div class="section-head"><div><h2>Teaching journey</h2><p>A compact view of progression across subjects and programmes.</p></div></div>
+  <div class="timeline">
+    <div class="year"><h3>2020–21 → 2022–23</h3><ul>
+      <li>Blockchain Technology</li><li>Fundamentals of Software Engineering</li><li>Cloud Computing</li><li>User Interface Design</li><li>Computer Programming &amp; Lab</li><li>Java Programming Lab</li>
+    </ul></div>
+    <div class="year"><h3>2023–24 → 2024–25</h3><ul>
+      <li>Advanced Programming</li><li>Cloud Computing</li><li>Principles of Programming Languages</li><li>Environmental Science</li><li>Distributed Systems &amp; Cloud Computing</li><li>Internet of Things</li><li>Connected Vehicles &amp; Security</li>
+    </ul></div>
+    <div class="year"><h3>2025–26 → 2026–27</h3><ul>
+      <li>Distributed Systems &amp; Cloud Computing</li><li>Blockchain Technology</li><li>Internet of Things</li><li>Connected Vehicles &amp; Security</li><li>Live-in-Labs I &amp; II</li><li>Mastery Over Mind</li>
+    </ul></div>
+  </div>
+</section>
+</main>
+
+<footer>Teaching Portfolio · Ramaguru Radhakrishnan · Amrita Vishwa Vidyapeetham, Coimbatore</footer>
+
+<script>
+const R="https://github.com/Amrita-TIFAC-Cyber-Blockchain/";
+const courses=[
+{y:"2026-27",s:"Odd",batch:"26UCYS / 26PCYS / 23UCYS",code:"22AVP103 / 25AVP501 / 24CYS336",name:"Mastery Over Mind / Distributed Systems and Cloud Computing",prog:"B.Tech CSE (CYS) / M.Tech CYS",type:"Theory",repo:R+"2025_20CYS402-Distributed-Systems-and-Cloud-Computing"},
+{y:"2025-26",s:"Even",batch:"24UEngg IV / 25PALE II / 23UCYS VI",code:"23LIV490 / 24AL733 / 24CYS333",name:"Live-in-Labs II / Connected Vehicles and Security / Internet of Things",prog:"Engineering / M.Tech Automotive Electronics / B.Tech CSE (CYS)",type:"Experiential",repo:R+"23LIV490-Live-in-Labs-II"},
+{y:"2025-26",s:"Odd",batch:"25UCYS I / 25PCYS I / 24UEngg III / 22UCYS VII",code:"22AVP103 / 25AVP501 / 23LIV390 / 20CYS402 / 24CYS336",name:"Mastery Over Mind / Live-in-Labs I / Distributed Systems and Cloud Computing / Blockchain Technology",prog:"B.Tech / M.Tech / Engineering",type:"Theory",repo:R+"2025_24CYS336-Blockchain-Technology"},
+{y:"2024-25",s:"Even",batch:"22UCYS VI / 24PALE II",code:"24CYS333 / 24AL733",name:"Internet of Things / Connected Vehicles and Security",prog:"B.Tech CSE (CYS) / M.Tech Automotive Electronics",type:"Theory",repo:R+"2024_24CYS333-Internet-of-Things"},
+{y:"2024-25",s:"Odd",batch:"21UCYS VII / 22UCYS V / 23UCYS III",code:"20CYS402 / 19ENV300 / 19CSE201",name:"Distributed Systems and Cloud Computing / Environmental Science / Advanced Programming",prog:"B.Tech CSE (CYS)",type:"Theory",repo:R+"2024_20CYS402-Distributed-Systems-and-Cloud-Computing"},
+{y:"2023-24",s:"Even",batch:"21UCYS VI / 22UCYS IV",code:"20CYS312 / 20CYS383",name:"Principles of Programming Languages / Java Programming Lab",prog:"B.E. CSE (CYS)",type:"Lab",repo:R+"2024_20CYS383-Java-Programming-Lab"},
+{y:"2023-24",s:"Odd",batch:"20UEEE/UELC/UCCE/UECE VII / 22UCYS III",code:"19CSE447 / 19CSE201",name:"Cloud Computing / Advanced Programming",prog:"B.E. ECE, CCE, EEE, ELC / CSE (CYS)",type:"Theory",repo:R+"2023_19CSE447-Cloud-Computing"},
+{y:"2022-23",s:"Even",batch:"22UCYS II / 21UCYS IV",code:"20CYS113 / 20CYS181 / 20CYS383",name:"Computer Programming / Computer Programming Lab / Java Programming Lab",prog:"B.E. CSE (CYS)",type:"Lab",repo:R+"20CYS113-20CYS181-Computer-Programming-and-Lab"},
+{y:"2022-23",s:"Odd",batch:"21UCYS III / 21PCYS III / 19UEEE/UELC VII",code:"20CYS202 / 21CY712 / 19CSE447",name:"User Interface Design / Blockchain Technology / Cloud Computing",prog:"B.E. CSE (CYS) / M.Tech CYS / B.E. EEE, ELC",type:"Theory",repo:R+"20CYS202-User-Interface-Design"},
+{y:"2021-22",s:"Even",batch:"19UECE/UCCE VI",code:"19CSE464",name:"Fundamentals of Software Engineering",prog:"B.E. CCE",type:"Theory",repo:R+"19CSE464-Fundamentals-of-Software-Engineering"},
+{y:"2021-22",s:"Odd",batch:"20PCYS III",code:"20CY712",name:"Blockchain Technology",prog:"M.Tech CYS",type:"Theory",repo:"https://ramagururadhakrishnan.github.io/teaching/2021-20CY712-BlockchainTechnology"},
+{y:"2020-21",s:"Odd",batch:"18PCYS III",code:"18CY712",name:"Blockchain Technology",prog:"M.Tech CYS",type:"Theory",repo:"https://ramagururadhakrishnan.github.io/teaching/2020-18CY712-BlockchainTechnology"}
+];
+
+const semesters=[
+["2026-27 Odd",["Mastery Over Mind","Distributed Systems and Cloud Computing","Blockchain Technology"]],
+["2025-26 Even",["Live-in-Labs II","Connected Vehicles and Security","Internet of Things"]],
+["2025-26 Odd",["Mastery Over Mind","Live-in-Labs I","Distributed Systems and Cloud Computing","Blockchain Technology"]],
+["2024-25 Even",["Internet of Things","Connected Vehicles and Security"]],
+["2024-25 Odd",["Distributed Systems and Cloud Computing","Environmental Science","Advanced Programming"]],
+["2023-24 Even",["Principles of Programming Languages","Java Programming Lab"]],
+["2023-24 Odd",["Cloud Computing","Advanced Programming"]],
+["2022-23 Even",["Computer Programming","Computer Programming Lab","Java Programming Lab"]],
+["2022-23 Odd",["User Interface Design","Blockchain Technology","Cloud Computing"]],
+["2021-22 Even",["Fundamentals of Software Engineering"]],
+["2021-22 Odd",["Blockchain Technology"]],["2020-21 Odd",["Blockchain Technology"]]
+];
+
+const repoFor=name=>{
+ const c=courses.find(x=>x.name.toLowerCase().includes(name.toLowerCase()));
+ return c?.repo || R;
+};
+
+const tabs=document.getElementById("tabs"), panels=document.getElementById("semesterPanels");
+semesters.forEach((sem,i)=>{
+ const id="sem"+i;
+ const b=document.createElement("button"); b.className="tab"+(i===0?" active":""); b.textContent=sem[0]; b.onclick=()=>activate(i); tabs.appendChild(b);
+ const p=document.createElement("div"); p.className="sem-panel"+(i===0?" active":""); p.id=id;
+ const list=sem[1];
+ p.innerHTML=`<div class="sem-grid"><div class="panel"><h3>${sem[0]} · ${list.length} teaching assignment${list.length>1?"s":""}</h3><div class="course-list">${list.map(n=>`<a class="course" href="${repoFor(n)}" target="_blank" rel="noopener"><div class="code">COURSE REPOSITORY ↗</div><div class="name">${n}</div><div class="meta">Click to open the GitHub course space.</div><span class="repo">Open repository →</span></a>`).join("")}</div></div><div class="panel"><h3>Typical weekly timetable</h3>${makeTT(list)}<div class="note">Illustrative timetable view. Replace slot assignments with the official timetable when publishing.</div></div></div>`;
+ panels.appendChild(p);
+});
+function activate(i){document.querySelectorAll(".tab").forEach((x,j)=>x.classList.toggle("active",i===j));document.querySelectorAll(".sem-panel").forEach((x,j)=>x.classList.toggle("active",i===j));}
+function makeTT(list){
+ const days=["Time","Mon","Tue","Wed","Thu","Fri"], times=["09:00","10:00","11:00","14:00","15:00"];
+ let h='<div class="timetable">'+days.map(x=>`<div class="tt head">${x}</div>`).join("");
+ times.forEach((t,r)=>{h+=`<div class="tt time">${t}</div>`;for(let d=0;d<5;d++){const n=list[(r+d)%list.length];h+=`<a class="tt course" href="${repoFor(n)}" target="_blank" rel="noopener"><b>${n}</b><span>Open GitHub ↗</span></a>`}});return h+"</div>";
+}
+const yearFilter=document.getElementById("yearFilter");
+[...new Set(courses.map(x=>x.y))].forEach(y=>yearFilter.innerHTML+=`<option>${y}</option>`);
+function renderTable(){
+ const q=document.getElementById("search").value.toLowerCase(), y=yearFilter.value, t=document.getElementById("typeFilter").value;
+ const rows=courses.filter(c=>(!q||JSON.stringify(c).toLowerCase().includes(q))&&(!y||c.y===y)&&(!t||c.type===t));
+ document.getElementById("courseTable").innerHTML=rows.map(c=>`<tr><td>${c.y}</td><td>${c.s}<br><span class="badge">${c.batch}</span></td><td><strong>${c.code}</strong></td><td><strong>${c.name}</strong></td><td>${c.prog}</td><td><span class="badge">${c.type}</span></td><td><a href="${c.repo}" target="_blank" rel="noopener">GitHub ↗</a></td></tr>`).join("");
+}
+document.getElementById("search").oninput=renderTable;yearFilter.onchange=renderTable;document.getElementById("typeFilter").onchange=renderTable;renderTable();
+</script>
+</body>
+</html>
